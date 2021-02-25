@@ -1,0 +1,412 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.header{
+	background-color: #212121;
+    height: 26px;
+    width: 100%;
+    text-align: center;
+    line-height: 24px;
+    font-size: 12px;
+    font-family: -webkit-pictograph;
+    letter-spacing: 1.5px;
+    position: fixed;
+    margin-top: -100px;
+}
+.header a{
+	text-decoration: none;
+	color: #ffffff;
+}
+.nav_bar hr{
+    margin-top: 8px;
+    border: 1px solid #af1f31;
+}
+.nav_bar{
+    width: 100%;
+    height: 79px;
+    position: fixed;
+    background-color: #ffffff;
+    margin-top: -75px;
+}
+.nav_bar a{
+    text-decoration: none;
+    color: #1a1919;
+    font-weight: 700;
+}
+.nav_bar img{
+	width: 153px;
+    padding: 20px;
+    margin-left: 72px;
+}
+.nav_bar div{
+	width: 50%;
+    margin-left: 606px;
+    margin-top: -92px;
+    height: 79px;
+}
+.nav_bar ul{
+	list-style-type: none;
+    height: 70px;
+    width: 100%;
+}
+.nav_bar li{
+    float: left;
+    margin: 9px;
+    padding-top: 18px;
+    font-size: 14px;
+    font-family: 'HelveticaNeue-Light', 'Helvetica Neue Light', 'HelveticaNeue', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+.nav_bar i{
+    margin: -2px;
+}
+.twitter{
+    margin-left: 18px;
+}
+.cart{
+	margin-left: 30px;
+}
+.nav_bar a:hover{
+	color: #af1f31;
+}
+.homepage{
+    background-repeat: no-repeat;
+    background-image: url(https://cdn.shopify.com/s/files/1/0907/2228/files/Faded_Mountain_Hike_with_White_Text_Nature_Desktop_Wallpaper-4_c01a2e34-c0f3-4af8-ba76-b569e372c786_1600x.jpg?v=1612434570);
+    background-size: cover;
+    width: 100%;
+    height: 748px;
+    margin-top: 100px;
+}
+.button{
+    position: relative;
+    padding: 16px 32px;
+    margin-top: 15px;
+    line-height: initial;
+    border: 1px solid rgba(255,255,255,0.6);
+    background-color: rgba(255,255,255,0.1);
+    text-shadow: 0 1px 1px rgb(0 0 0 / 40%);
+    box-shadow: none;
+    border-radius: 4px;
+}
+.button a{
+    text-decoration: none;
+    color: #ffffff;
+} 
+.homepage div{
+    padding: 359px;
+    padding-left: 163px;
+}
+.product{
+    width: 100%;
+    height: 550px;
+}
+.product div{
+    float: left;
+    height: 550px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 544px;
+    margin: -113px;
+    margin-top: 30px;
+    margin-left: 130px;
+    font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+    color: #ffffff;
+}
+.product a{
+    text-decoration: none;
+}
+.grips-wrap{
+    background-image: url(https://cdn.shopify.com/s/files/1/0907/2228/files/1_85d62396-22fb-4c0e-9972-94cf6254c03c_1600x.png?v=1598108905);
+}
+.shoe-protector{
+    background-image: url(https://cdn.shopify.com/s/files/1/0907/2228/files/2_afef9b3b-8390-4fb2-8e7e-0c193ab5ab3e_1600x.png?v=1598108928);
+}.product p{
+    text-align: center;
+    margin-top: 267px;
+}
+.mini{
+    background-image: url(https://cdn.shopify.com/s/files/1/0907/2228/files/10_d76fa6bd-e7ec-4421-99a5-0865737e3154_1600x.jpg?v=1598425100);
+}
+.backpack{
+    background-image: url(https://cdn.shopify.com/s/files/1/0907/2228/files/11_f87594f3-bd4c-46c2-9036-e1846173a87f_1600x.jpg?v=1598425134);
+}
+.military{
+    background-image: url(https://cdn.shopify.com/s/files/1/0907/2228/files/12_aac9c8bc-a51b-4b19-88e6-f0039cad3fd7_1600x.jpg?v=1598425159);
+}
+.tool{
+    background-image: url(https://cdn.shopify.com/s/files/1/0907/2228/files/13_edbf1d05-ffac-4766-99ae-dd9fc9c73d1a_1600x.jpg?v=1598425195);
+}
+.headlight{
+    background-image: url(https://cdn.shopify.com/s/files/1/0907/2228/files/14_d6eea7c7-6439-41e9-bedd-8d03c51216dd_1600x.jpg?v=1598425233);
+}
+.biker{
+    background-image: url(https://cdn.shopify.com/s/files/1/0907/2228/files/7_9fbd308d-432c-42a6-ac11-2969d99fa647_1600x.png?v=1598425611);
+}
+.product-margin{
+    margin-top: 18px;
+}
+.read-more{
+    background-image: url(https://cdn.shopify.com/s/files/1/0907/2228/files/tripmachine_02f85dce-26d8-46c7-8dc7-e28a43d4de50_1600x.jpg?v=1598108328);
+    margin-top: 85px;
+    width: 100%;
+    height: 2500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.read-more div{
+    text-align: center;
+    padding-top: 1153px;
+}
+.read{
+    font-size: 40px;
+    text-decoration: none;
+    color: #ffffff;
+}
+.read p{
+    font-family: -webkit-pictograph;
+    font-weight: bolder;
+}
+.read span{
+    font-size: 27px;
+    font-weight: bolder;
+}
+.button{
+    text-decoration: none;
+    color: #ffffff;
+}
+.read-more button{
+    height: 55px;
+    width: 168px;
+    line-height: 4px;
+}
+.biker-belts{
+    background-image: url(https://cdn.shopify.com/s/files/1/0907/2228/files/3_d65a36ed-55dc-4b1a-964c-89571aa8f836_1600x.png?v=1598425976);
+}
+.key-chains{
+    background-image: url(https://cdn.shopify.com/s/files/1/0907/2228/files/4_e6251416-4f76-4ec8-b956-b79e81787193_1600x.png?v=1598425878);
+}
+.sunglasses{
+    background-image: url(https://cdn.shopify.com/s/files/1/0907/2228/files/5_b4a2484e-49e3-4ad4-aed7-f449324cf30f_1600x.png?v=1598425901);
+}
+.bach-catch{
+    background-image: url(https://cdn.shopify.com/s/files/1/0907/2228/files/6_f3164762-bb05-4acc-bb04-1fa0b2f4befe_1600x.png?v=1598425929);
+}
+.earphone{
+    background-image: url(https://cdn.shopify.com/s/files/1/0907/2228/files/8_6011f50f-b2c1-40c1-8f7a-c9319c937417_1600x.png?v=1598425949);
+}
+.sign-up{
+    margin-top: 89px;
+    background-color: #000000;
+    width: 100%;
+    height: 225px;
+    text-align: center;
+    color: #ffffff;
+}
+.sign-up p{
+    font-size: 28px;
+    font-family: sans-serif;
+    font-weight: 700;
+    padding-top: 40px;
+}
+.sign-up span{
+    font-size: 15px;
+    font-weight: 100;
+}
+.sign-up form{
+    margin-top: 36px;
+    margin-left: -9px;
+}
+.sign-up input{
+    width: 233px;
+    height: 35px;
+    border-radius: 4px;
+    border: 1px;
+    padding: 3px;
+}
+.sign-up button{
+    margin-left: 9px;
+    width: 95px;
+    height: 41px;
+    border-radius: 4px;
+    border: 1px;
+    background-color: #4a4848;
+    color: #ffffff;
+}
+.sign-up button:hover{
+    background-color: #000000;
+}
+.sign-up a{
+    text-decoration: none;
+    color: #ffffff;
+}
+.bottom{
+    width: 100%;
+    height: 510px;
+    color: #404040;
+    font-family: -webkit-pictograph;
+    font-weight: normal;
+    font-size: 15px;
+}
+.footer{
+    float: left;
+    padding: 38px;
+    margin-left: 53px;
+}
+.footer h4{
+    margin-bottom: 25px;
+}
+.footer ul{
+    list-style-type: none;
+    font-size: 14px;
+    margin-left: -13px;list-style-type: none;
+    font-size: 14px;
+    margin-left: -13px;
+} 
+.footer li{
+    margin: 14px;
+} 
+.get-in-touch{
+    padding-top: 37px;
+}
+.get-in-touch h4{
+    margin-bottom: 22px;
+} 
+.get-in-touch p{
+    font-size: 14px;
+    margin: 15px;
+} 
+.get-in-touch span{
+    color: #af1f31;
+}
+.call{
+    padding-left: 372px;
+}
+.get-in-touch ul{
+    list-style-type: none;
+    margin-left: 356px;
+}
+.get-in-touch li{
+    float: left;
+    margin: 12px;
+}
+.get-in-touch i{
+    color: #404040;
+    font-size: 21px;
+}
+.end a{
+    text-decoration: none;
+    color: #404040;
+}
+.end{
+    margin-top: 167px;
+    text-align: center;
+    font-size: 13px;
+}
+.home{
+    margin-top: 99px;
+    padding: 79px;
+    font-size: 14px;
+    font-family: sans-serif;
+}
+.home a{
+    text-decoration: none;
+    color: #af1f31;
+}
+.grips-head{
+    margin-left: 78px;
+    margin-top: -40px;
+    color: #303030;
+    font-family: -webkit-pictograph;
+    font-size: 27px;
+    margin-bottom: -72px;
+}
+.image-content{
+    height: 400px;
+    width: 95%;
+    margin-left: 67px;
+    margin-top: 105px;
+}
+.image-content a{
+    text-decoration: none;
+    color: #303030;
+    font-family: -webkit-pictograph;
+}
+.image-content div{
+    width: 400px;
+    height: 400px;
+    font-size: 15px;
+    float: left;
+}
+.vintage-tan{
+    width: 100%;
+    height: 300px;
+    background-image: url(https://cdn.shopify.com/s/files/1/0907/2228/products/Tool_Roll_New-15_2048x.jpg?v=1578551138);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.image-content ul{
+    list-style-type: none;
+    margin-top: -13px;
+}
+.image-content li{
+    float: left;
+    margin: 1px;
+}
+.span{
+    font-weight: bold;
+    margin-left: 5px;
+}
+.image-content i{
+    color: #ffd200;
+    
+}
+hr{
+    color: #ede9dd;
+    border: 1x;
+    border: 1px solid;
+    margin-top: 157px;
+}
+.vintage-tan:hover{
+    background: url(https://cdn.shopify.com/s/files/1/0907/2228/products/Tool_Roll_New-13_580x@2x.jpg?v=1578551141);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.tobacco-brown{
+    width: 100%;
+    height: 300px;
+    background-image: url(https://cdn.shopify.com/s/files/1/0907/2228/products/Tool_Roll_New-16_2048x.jpg?v=1578554055https://cdn.shopify.com/s/files/1/0907/2228/products/Tool_Roll_New-16_2048x.jpg?v=1578554055https://cdn.shopify.com/s/files/1/0907/2228/products/Tool_Roll_New-16_2048x.jpg?v=1578554055https://cdn.shopify.com/s/files/1/0907/2228/products/Tool_Roll_New-16_2048x.jpg?v=1578554055);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.tobacco-brown:hover{
+    background: url(https://cdn.shopify.com/s/files/1/0907/2228/products/on_bike_grip_tabacco_580x@2x.jpg?v=1578554055);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.black{
+    width: 100%;
+    height: 300px;
+    background-image: url(https://cdn.shopify.com/s/files/1/0907/2228/products/Tool_Roll_New-17_2048x.jpg?v=1578560446);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.black:hover{
+    background: url(https://cdn.shopify.com/s/files/1/0907/2228/products/on_bike_grip_black_580x@2x.jpg?v=1578560446);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.cherry-red{
+    width: 100%;
+    height: 300px;
+    background-image: url(https://cdn.shopify.com/s/files/1/0907/2228/products/62_2048x.jpg?v=1578559166);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.cherry-red:hover{
+    background: url(https://cdn.shopify.com/s/files/1/0907/2228/products/on_bike_grip_cherry_580x@2x.jpg?v=1578559166);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.hover:hover{
+    color: #af1f31;
+}

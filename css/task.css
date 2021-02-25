@@ -1,0 +1,132 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.a{
+    background-color: #5dbfa6;
+    width: 100%;
+    height: 99px;
+}
+.a img{
+    padding: 30px;
+    margin-left: 123px;
+}
+.b{
+    margin-left: 477px;
+    margin-top: -63px;
+    font-size: 14px;
+    font-family: -webkit-pictograph;
+}
+.b a{
+	text-decoration: none;
+    margin: 35px;
+    color: #eaeaea;
+    font-size: 13px;
+    font-weight: bolder;
+}
+.c{
+    width: 310px;
+    margin-left: 715px;
+    margin-top: 30px;
+}
+.d{
+    margin-top: -454px;
+    width: 27%;
+    margin-left: 266px;
+}
+.e{
+	color: #1c1e21;
+    font-weight: 200;
+    font-size: 33px;
+    font-family: system-ui;
+}
+.f{
+    color: #575757;
+    font-family: -webkit-pictograph;
+    font-size: 14px;
+    font-weight: 500;
+}
+.g{
+	color: #dcdcdc;
+    margin-top: 15px;
+    font-size: 12px;
+    font-family: -webkit-pictograph;
+}
+.d a{
+	text-decoration: none;
+    color: : #1cb39b;
+    color: : #1cb39b;
+    color: #1cb39b;
+    font-size: 18px;
+    font-family: -webkit-pictograph;
+}
+.h{
+    width: 40%;
+    height: 519px;
+    margin-top: 205px;
+    margin-left: 0px;
+    text-align: center;
+    padding: 52px;
+    background-color: #d0e9ea;
+}
+.i{
+    width: 40%;
+    margin-left: 669px;
+    margin-top: -645px;
+    height: 500px;
+    text-align: center;
+    padding: 70px;
+    background-color: #edf8f5;
+}
+.j img{
+    margin-top: -349px;
+    width: 667px;
+    margin-left: -23px;
+}
+.i img{
+	width: 327px;
+    margin-top: -47px;
+}
+.h h2{
+	font-weight: lighter;
+    font-family: system-ui;
+    font-size: 26px;
+}
+.h p{
+    margin-top: 34px;
+    font-family: -webkit-pictograph;
+    font-size: 14px;
+}
+.h a{
+	text-decoration: none;
+    color: #39b3ed;
+}
+.i h3{
+	font-size: 14px;
+    font-family: monospace;
+    font-weight: unset;
+    color: rgba(0, 0, 0, .5);
+}
+.i h2{
+	font-weight: lighter;
+    font-family: system-ui;
+    font-size: 26px;
+} 
+.i p{
+    margin-top: -5px;
+    font-family: -webkit-pictograph;
+    font-size: 14px;
+} 
+.button{
+    margin-top: 70px;
+    margin-left: 544px;
+    border: 2px solid #77d7c8;
+    width: 234px;
+    height: 58px;
+    border-radius: 40px;
+    font-size: 17px;
+}  
+.button a{
+	text-decoration: none;
+	color: #1cb39b;
+}
